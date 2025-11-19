@@ -6,7 +6,7 @@ A React app showcasing a collection of books using reusable components, built wi
 - **BookCard:** Reusable component to display individual book information.
 
 ## Links
-- **GitHub Repository:** https://github.com/yourname/book-library
+- **GitHub Repository:** https://github.com/Najanafeesakamal/Book-library.git
 - **Live Website:** https://yourprojecturl.vercel.app/
 
 ## Run Locally
